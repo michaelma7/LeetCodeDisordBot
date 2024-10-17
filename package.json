@@ -1,0 +1,23 @@
+{
+  "name": "leetcodedisordbot",
+  "version": "1.0.0",
+  "description": "Grabs daily problem and sends link to discord channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelma7/LeetCodeDisordBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelma7/LeetCodeDisordBot/issues"
+  },
+  "homepage": "https://github.com/michaelma7/LeetCodeDisordBot#readme",
+  "dependencies": {
+    "@ngrok/ngrok": "^1.4.1",
+    "nodemon": "^3.1.7"
+  }
+}
